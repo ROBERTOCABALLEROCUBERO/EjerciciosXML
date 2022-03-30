@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DNI>
+    <NOMBRE>Roberto</NOMBRE>
+    <Apellidos>Caballero López</Apellidos>
+    <Lugardenac>Pedro Muñoz</Lugardenac>
+    <Provincia>Ciudad Real</Provincia>
+    <Pais>España</Pais>
+    <Numero>059635151K</Numero>
+    <FECHACAD>25/12/2025</FECHACAD>
+    <Progenitores>
+        <NOMBRE>Jose Ángel</NOMBRE>
+        <Apellido>Pedro Bustos</Apellido>
+        <NOMBRE>Josefa</NOMBRE>
+        <Apellido>Romana Sanchez</Apellido>
+    </Progenitores>
+</DNI>
