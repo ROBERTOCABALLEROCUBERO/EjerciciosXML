@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Coche>
+    <precio>12.000€</precio>
+    <Marca>Toyota</Marca>
+    <Motor>280CV</Motor>
+    <color>Rojo</color>
+    <Asientos>Familiar</Asientos>
+    <Extras>Descapotable</Extras>
+    <Extras>GPS</Extras>
+</Coche>

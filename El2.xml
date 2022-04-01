@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_compra>
+    <productos>
+        <producto>
+            <nombre>Lasagna</nombre>
+            <marca>Carrefour</marca>
+            <fecha_caducidad>01-04-2022</fecha_caducidad>
+            <precio>1,90€</precio>
+        </producto>
+        <producto>
+            <nombre>Pizza</nombre>
+            <marca>Hacendado</marca>
+            <fecha_caducidad>28-03-2023</fecha_caducidad>
+            <precio>2,90€</precio>
+        </producto>
+        <producto>
+            <nombre>Platano</nombre>
+            <marca>Canarias</marca>
+            <fecha_caducidad>03-04-2022</fecha_caducidad>
+            <precio>2€</precio>
+        </producto>
+
+
+    </productos>
+
+
+</lista_compra>
