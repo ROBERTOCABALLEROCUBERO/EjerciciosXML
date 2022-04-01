@@ -1,0 +1,11 @@
+DNI{
+border: solid;
+background-color: aliceblue;
+height: 50vh;
+width: 100%;
+}
+Nombre, Apellidos, Lugardenac, Provincia, Pais, Numero ,FECHACAD{
+
+
+    display: block;
+}
