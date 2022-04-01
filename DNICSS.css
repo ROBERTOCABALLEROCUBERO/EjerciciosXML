@@ -1,11 +1,36 @@
-DNI{
-border: solid;
-background-color: aliceblue;
-height: 50vh;
-width: 100%;
+DNI {
+    border: solid;
+    background-color: aliceblue;
+    height: 50vh;
+    width: 100%;
+    position: relative;
 }
-Nombre, Apellidos, Lugardenac, Provincia, Pais, Numero ,FECHACAD{
 
-
+Nombre,
+Apellidos,
+Lugardenac,
+Provincia,
+Pais,
+Numero,
+FECHACAD {
     display: block;
+    margin-left: 50%;
+    border: solid;
+    width: 20%;
+
+}
+
+Progenitores {
+    border: solid;
+    font-size: 15pt;
+    position: absolute;
+    width: 60%;
+    right: 0;
+    bottom: 8;
+}
+Foto{
+display: inline-block;
+border: solid;
+
+
 }
