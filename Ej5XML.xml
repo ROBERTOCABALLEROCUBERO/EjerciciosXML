@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Concesionarios>
+    <Concesionario>
+        <Coche>
+            <precio>12.000€</precio>
+            <Marca>Toyota</Marca>
+            <Motor>280CV</Motor>
+            <color>Rojo</color>
+            <Modelo>Familiar</Modelo>
+            <Extras>Descapotable</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Alto</consumo>
+        </Coche>
+        <Coche>
+            <precio>14.000€</precio>
+            <Marca>Audi</Marca>
+            <Motor>290CV</Motor>
+            <color>Verde</color>
+            <Modelo>Deportivo</Modelo>
+            <Extras>Modo Sport</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Alto</consumo>
+        </Coche>
+        <Coche>
+            <precio>19.000€</precio>
+            <Marca>Renault</Marca>
+            <Motor>295CV</Motor>
+            <color>Blanco</color>
+            <Modelo>Deportivo</Modelo>
+            <Extras>Asientos de cuero</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Bajo</consumo>
+        </Coche>
+    </Concesionario>
+
+    <Concesionario>
+        <Coche>
+            <precio>12.000€</precio>
+            <Marca>Toyota</Marca>
+            <Motor>280CV</Motor>
+            <color>Rojo</color>
+            <Modelo>Familiar</Modelo>
+            <Extras>Descapotable</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Alto</consumo>
+        </Coche>
+        <Coche>
+            <precio>14.000€</precio>
+            <Marca>Audi</Marca>
+            <Motor>290CV</Motor>
+            <color>Verde</color>
+            <Modelo>Deportivo</Modelo>
+
+            <Extras>Modo Sport</Extras>
+
+            <Extras>GPS</Extras>
+            <consumo>Alto</consumo>
+        </Coche>
+        <Coche>
+            <precio>19.000€</precio>
+            <Marca>Renault</Marca>
+            <Motor>295CV</Motor>
+            <color>Blanco</color>
+            <Modelo>Deportivo</Modelo>
+            <Extras>Asientos de cuero</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Bajo</consumo>
+        </Coche>
+    </Concesionario>
+    <Concesionario>
+        <Coche>
+            <precio>12.000€</precio>
+            <Marca>Toyota</Marca>
+            <Motor>280CV</Motor>
+            <color>Rojo</color>
+            <Modelo>Familiar</Modelo>
+            <Extras>Descapotable</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Alto</consumo>
+        </Coche>
+        <Coche>
+            <precio>14.000€</precio>
+            <Marca>Audi</Marca>
+            <Motor>290CV</Motor>
+            <color>Verde</color>
+            <Modelo>Deportivo</Modelo>
+            <Extras>Modo Sport</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Alto</consumo>
+        </Coche>
+        <Coche>
+            <precio>19.000€</precio>
+            <Marca>Renault</Marca>
+            <Motor>295CV</Motor>
+            <color>Blanco</color>
+            <Modelo>Deportivo</Modelo>
+            <Extras>Asientos de cuero</Extras>
+            <Extras>GPS</Extras>
+            <consumo>Bajo</consumo>
+        </Coche>
+    </Concesionario>
+</Concesionarios>
