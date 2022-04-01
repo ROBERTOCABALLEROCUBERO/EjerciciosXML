@@ -17,10 +17,8 @@
             <nombre>Platano</nombre>
             <marca>Canarias</marca>
             <fecha_caducidad>03-04-2022</fecha_caducidad>
-            <precio>2€</precio>
+            <precio>21€</precio>
         </producto>
-
-
     </productos>
 
 
