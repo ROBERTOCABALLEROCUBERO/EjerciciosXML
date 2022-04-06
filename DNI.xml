@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="DNICSS.css" type="text/css"?>
+<!DOCTYPE DNI [
+    <!ELEMENT DNI (Foto, Nombre, Apellidos, Lugardenac, Provincia,
+    Pais, Numero, FECHACAD, Progenitores)>
+    <!ELEMENT Foto (#PCDATA)>
+    <!ELEMENT Nombre (#PCDATA)>
+    <!ELEMENT Apellidos (#PCDATA)>
+    <!ELEMENT Lugardenac (#PCDATA)>
+    <!ELEMENT Provincia (#PCDATA)>
+    <!ELEMENT Pais (#PCDATA)>
+    <!ELEMENT Numero (#PCDATA)>
+    <!ELEMENT FECHACAD (#PCDATA)>
+    <!ELEMENT Progenitores (NOMBRE, Apellido)*>
+    <!ELEMENT NOMBRE (#PCDATA)>
+    <!ELEMENT Apellido (#PCDATA)>
+]>
 <DNI>
     <Foto>Imagen</Foto>
     <Nombre>Roberto</Nombre>
